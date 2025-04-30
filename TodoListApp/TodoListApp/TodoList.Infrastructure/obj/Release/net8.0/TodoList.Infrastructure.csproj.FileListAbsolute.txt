@@ -1,0 +1,15 @@
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\bin\Release\net8.0\TodoList.Infrastructure.deps.json
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\bin\Release\net8.0\TodoList.Infrastructure.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\bin\Release\net8.0\TodoList.Infrastructure.pdb
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\bin\Release\net8.0\TodoList.Core.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\bin\Release\net8.0\TodoList.Core.pdb
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.AssemblyInfo.cs
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.174662ED.Up2Date
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\refint\TodoList.Infrastructure.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\TodoList.Infrastructure.pdb
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Infrastructure\obj\Release\net8.0\ref\TodoList.Infrastructure.dll

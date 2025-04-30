@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/mUm1Ey25r9ibmCappDm3UsEy3v5fVJChB679qD35jZ5rn+CiiMSS63+W+Xo5HkSqfYE9/9w2tQOssKNsd7JRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\217475333\\Downloads\\TodoListApp_LungaNhlakaniphoNtshingila\\TodoListApp\\TodoList.ConsoleUI\\TodoList.ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\217475333\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\217475333\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

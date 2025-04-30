@@ -1,0 +1,11 @@
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\bin\Release\net8.0\TodoList.Core.deps.json
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\bin\Release\net8.0\TodoList.Core.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\bin\Release\net8.0\TodoList.Core.pdb
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.AssemblyInfoInputs.cache
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.AssemblyInfo.cs
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\refint\TodoList.Core.dll
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\TodoList.Core.pdb
+C:\Users\222883750\source\repos\TodoListApp\TodoList.Core\obj\Release\net8.0\ref\TodoList.Core.dll
